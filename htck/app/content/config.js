@@ -156,6 +156,8 @@ var constants = {
         "content//images/misc/16_sword.png",
         "content//images/misc/17_sword_helmet.png",
         "content//images/misc/18_Barbecue.png",
+        "content//images/misc/19_Rose.png",
+        "content//images/misc/20_Bench.png",
       ]
     },
   ],
